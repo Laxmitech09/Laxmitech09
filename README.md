@@ -31,4 +31,11 @@ I am a **Computer Science student** and aspiring software developer, passionate 
 > Learn → Build → Practice → Improve 🚀
 
 I'm continuously learning and working towards becoming a better developer every day.
+## 🚀 Projects
 
+### ⚡ IndraGrid
+An energy distribution optimization system for small-scale factories.
+
+**Tech Stack:** Python • Streamlit • GitHub
+
+🔗 [View IndraGrid]()
