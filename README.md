@@ -32,8 +32,3 @@ I am a **Computer Science student** and aspiring software developer, passionate 
 
 I'm continuously learning and working towards becoming a better developer every day.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxmitech09&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmitech09&layout=compact\&theme=tokyonight)
