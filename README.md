@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Laxmi! 👋
 
-<!--
-**Laxmitech09/Laxmitech09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a **Computer Science student** and aspiring software developer, passionate about learning programming, problem-solving, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Currently pursuing **B.Tech in Computer Science**
+* 💻 Currently learning and improving my skills in **C++, Java & Python**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🌱 Exploring **Web Development, Git & GitHub**
+* 🎯 My goal is to build strong programming fundamentals and become a skilled software developer
+
+## 🛠️ Tech Stack
+
+* **Languages:** C++, Java, Python
+* **Core Concepts:** Data Structures & Algorithms, OOP
+* **Web:** HTML, CSS
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** Java, Python, C++ & DSA
+
+## 📚 Currently Working On
+
+* Improving my problem-solving skills
+* Practicing coding problems
+* Building projects
+* Learning core Computer Science concepts
+* Maintaining a consistent coding streak
+
+## 🎯 Goals
+
+> Learn → Build → Practice → Improve 🚀
+
+I'm continuously learning and working towards becoming a better developer every day.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laxmitech09&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxmitech09&layout=compact\&theme=tokyonight)
