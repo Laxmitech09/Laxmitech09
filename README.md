@@ -38,4 +38,4 @@ An energy distribution optimization system for small-scale factories.
 
 **Tech Stack:** Python • Streamlit • GitHub
 
-🔗 [View IndraGrid]()
+🔗 [View IndraGrid](https://github.com/mishrapari210607-bit/Indra-grid)
